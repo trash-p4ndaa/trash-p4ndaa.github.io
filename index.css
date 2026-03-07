@@ -3,11 +3,23 @@ body{
 }
 
 #introduction{
-    background-color: rgb(129, 156, 130);
-    color: black;
+    background-color: rgb(58, 90, 59);
     width: 650px;
     border-radius: 10px;
-    margin-top: 100px;
+    margin-top: 5px;
     margin-left: 400px;
     padding: 10px;
+}
+
+#contact{
+    width: 200px;
+    margin-top: 50px;
+    margin-left:0px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#navigation a{
+    margin-left: 15px;
 }
